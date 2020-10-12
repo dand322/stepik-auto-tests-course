@@ -1,2 +1,3 @@
 # stepik-auto-tests-course
-python auto tests
+python auto tests 
+уроки git
